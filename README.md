@@ -32,6 +32,10 @@
 
 ## Natural Language Processing
 [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+[Language and Statistics II: (More) Empirical Methods in Natural Language Processing](http://www.cs.cmu.edu/~nasmith/LS2.F06/)
+[Language and Statistics II](http://www.cs.cmu.edu/~nasmith/LS2/)
+[cs338](http://www.cs.utexas.edu/~mooney/cs388/)
+[csc401](http://www.cs.toronto.edu/~frank/csc401/)
 
 ## Computer Vision
 
